@@ -83,6 +83,14 @@ small {
   font-size: 0.85em;
 }
 
+section {
+  margin-bottom: 1em;
+}
+
+hr {
+  clear: both;
+}
+
 #main p.button {
   display: block;
   max-width: 390px;
@@ -93,8 +101,19 @@ small {
   color: rgb(255, 67, 67);
 }
 
+p#banner-cta {
+  padding: 1px 4px;
+  background-color: #ffc;
+  text-align: center;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  border-color: #0003;
+  font-size: 0.85em;
+}
+
 button.provincia {
   margin-bottom: 9px;
+  font-size: 0.6em;
 }
 
 tr.danger {
@@ -127,9 +146,49 @@ ul.iconify li {
   line-height: 1.7em;
 }
 
+li.icon-list {
+  list-style: none;
+  padding-left: 0;
+  margin-left: -1em;
+
+  a {
+    margin-left: 4px;
+  }
+}
+
 p.subtitle {
-  margin: 2em 0;
+  margin: 2em 0 0.85em 0;
   font-size: 1.1em;
+}
+
+.score-container {
+  max-width: 370px;
+  margin: auto;
+
+  .score-bar {
+    position: relative;
+    height: 12px;
+    width: 100%;
+    border-radius: 5px;
+    background: #f25757;
+
+    .score-progress {
+      position: absolute;
+      height: 12px;
+      background: #34ca96;
+      border-radius: 5px 0 0 5px;
+    }
+  }
+
+  p {
+    font-size: 0.85em;
+    text-align: center;
+    margin-top: 1em;
+  }
+}
+
+p.centered {
+  text-align: center;
 }
 
 p.featured {
@@ -139,6 +198,16 @@ p.featured {
 
 p.featured .emoticon {
   display: block;
+}
+
+p.featured .cta-twitter {
+  background-color: rgb(29, 161, 242);
+  color: #fff;
+  padding: 4px;
+  border-radius: 3px;
+  display: block;
+  max-width: 600px;
+  margin: auto;
 }
 
 #resultados table {
@@ -161,7 +230,7 @@ p.tablefooter {
 }
 
 #score {
-  color: #FFF;
+  color: #fff;
   font-weight: bold;
   font-size: 80px;
   width: 128px;
@@ -174,7 +243,7 @@ p.tablefooter {
   border: 6px solid;
 }
 
-@include breakpoint('<=small') {
+@include breakpoint("<=small") {
   #score {
     width: 80px;
     height: 80px;
@@ -204,4 +273,30 @@ p.tablefooter {
 
 #score.unknown {
   background: #eee8e8;
+}
+
+img[src*="#thumbnail"] {
+  width: 250px;
+  display: block;
+  float: left;
+  padding-right: 1em;
+
+  @include breakpoint("<=small") {
+    float: none;
+    margin: auto;
+    width: 100%;
+  }
+}
+
+.score-list-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 3em;
+
+  .score-container {
+    flex: 1;
+    min-width: 300px;
+    margin: 0 0.5em 1em;
+  }
 }

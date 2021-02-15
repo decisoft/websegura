@@ -182,4 +182,10 @@
 
 			});
 
+			// Custom code
+			$( ".score-progress" ).each( function () {
+			    let progress = $(this).attr("data-score") + '%';
+			    $(this).css('width', progress);
+			});
+
 })(jQuery);
