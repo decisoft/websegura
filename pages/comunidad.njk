@@ -20,6 +20,16 @@ permalink: "c/{{ comunidad }}/"
   {{ c.name }}
   para saber si protegen la privacidad y seguridad de sus usuarios.</p>
 
+<div class="score-container">
+  <div class="score-bar">
+    <div class="score-progress" data-score="{{ all | filterByTerritorioId(comunidad) | safeScore }}"></div>
+  </div>
+
+  <p>
+    <strong>{{ all | filterByTerritorioId(comunidad) | safeScore }}%</strong>
+    de las webs completamente seguras ({{ all | filterByTerritorioId(comunidad) | scoreGt(69) | length}}/{{ all | filterByTerritorioId(comunidad) | length}})</p>
+</div>
+
 <p class="button">
   <a id="cta" href="#cta-featured">Ver quién no es seguro</a>
 </p>
@@ -48,8 +58,12 @@ permalink: "c/{{ comunidad }}/"
     {% endfor %}
   </p>
 
+  {% if provincias | length < 50 %}
   <p>
-    <small>(<a href="https://github.com/PucelaBits/websegura#a%C3%B1adir-una-web">Ayúdanos a añadir otras provincias</a>)</small>
+    <small>
+    (<a href="https://github.com/PucelaBits/websegura#a%C3%B1adir-una-web">Ayúdanos a añadir otras provincias, ¡ya sólo faltan {{ 50 - provincias | length }}!</a>)
+    </small>
   </p>
+  {% endif %}
 
 </section>

@@ -1,0 +1,17 @@
+{
+  "name": "Vizcaya",
+  "comunidad": "pais-vasco",
+  "webs": [
+    {
+        "url": "web.bizkaia.eus",
+        "name": "Diputación Foral de Bizkaia",
+        "twitter": "Bizkaia"
+    },
+    {
+        "url": "www.bilbao.eus",
+        "name": "Ayuntamiento de Bilbao",
+        "twitter": "bilbao_udala",
+        "tags": ["ayuntamientos"]
+    }
+  ]
+}

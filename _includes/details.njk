@@ -11,15 +11,25 @@
 
 <ul>
   <li><strong>Nombre:</strong> {{ web.name }}</li>
-  <li><strong>URL:</strong> <a href="https://{{ web.url }}">{{ web.url }}</a></li>
+  <li><strong>Dirección:</strong> <a href="https://{{ web.url }}">{{ web.url }}</a></li>
   {% if web.twitter %}<li><strong>Twitter:</strong> <a href="https://twitter.com/{{ web.twitter }}">@{{ web.twitter }}</a></li>{% endif %}
   {% if type %}
-  <li><strong>Ubicación: </strong><a href="/{{ type }}/{{ parent }}">{{ location.name }}</a></li>
+  <li><strong>Ubicación:</strong> <a href="/{{ type }}/{{ parent }}">{{ location.name }}</a></li>
   {% endif %}
   <li><strong>Puntuación:</strong> {{ results.score }}/100</li>
+  {% if web.tags %}
+  <li class="icon-list">🏷️
+  {% for tag in web.tags %}
+    <a href="/l/{{ tag }}">{{ tag }}</a>{% if not loop.last %}, {% endif %}
+  {% endfor %}
+  </li>
+  {% endif %}
 </ul>
 
-<p>{{ results | abbr }}.</p>
+<p>
+{{ results | abbr }}.<br >
+<a href="https://observatory.mozilla.org/analyze/{{ web.url }}">🖥 Leer el informe técnico completo.</a>
+</p>
 
 {% if (web.twitter) and (results.score < 70) %}
 <p><a class="twitter-share-button" href="https://twitter.com/intent/tweet/?text={{ 'Hola @' + web.twitter + '
@@ -35,9 +45,7 @@ https://websegura.pucelabits.org'| urlEncode }}{{ path | urlEncode }}{{ '?pk_cam
     </a></p>
 {% endif %}
 
-<p><a href="https://observatory.mozilla.org/analyze/{{ web.url }}">🖥 Leer el informe técnico completo.</a></p>
-
-<h2>🕐 Historial</h2>
+<h2 id="historial">🕐 Historial</h2>
 
 <table>
   <thead>

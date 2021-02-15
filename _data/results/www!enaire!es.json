@@ -1,0 +1,29 @@
+{
+  "algorithm_version": 2,
+  "end_time": "Sun, 14 Feb 2021 11:21:34 GMT",
+  "grade": "F",
+  "hidden": false,
+  "likelihood_indicator": "MEDIUM",
+  "response_headers": {
+    "Connection": "close",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Sun, 14 Feb 2021 11:21:16 GMT",
+    "Last-Modified": "Sun, 14 Feb 2021 11:21:16 GMT",
+    "Server": "Apache/2.2.15 (Oracle)",
+    "Set-Cookie": "JSESSIONID=LBegRft7dFMKxULC9E7EqVxE2K1v_7Bt5Y8iUoOLnanqEEJXnzUw!271927784!327409099; path=/",
+    "Transfer-Encoding": "chunked",
+    "X-ORACLE-DMS-ECID": "b1b7035c-cf13-4245-a98c-cd05c21e8069-000af1e2, 11e63935-9de2-420e-9c5d-a2c600503587-002854eb",
+    "X-ORACLE-DMS-RID": "0, 0",
+    "device_type": "Any",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1"
+  },
+  "scan_id": 17752473,
+  "score": 0,
+  "start_time": "Sun, 14 Feb 2021 11:21:05 GMT",
+  "state": "FINISHED",
+  "status_code": 200,
+  "tests_failed": 4,
+  "tests_passed": 8,
+  "tests_quantity": 12
+}

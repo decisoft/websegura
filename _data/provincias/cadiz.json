@@ -1,0 +1,29 @@
+{
+  "name": "Cádiz",
+  "comunidad": "andalucia",
+  "webs": [
+    {
+      "url": "institucional.cadiz.es",
+      "name": "Ayuntamiento de Cádiz",
+      "twitter": "cadiz_es",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "www.sedeelectronica.jerez.es",
+      "name": "Jerez de la Frontera - Sede Electrónica",
+      "twitter": "ciudadjerez"
+    },
+    {
+      "url": "www.jerez.es",
+      "name": "Ayuntamiento de Jerez de la Frontera",
+      "twitter": "ciudadjerez",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "www.algeciras.es",
+      "name": "Ayuntamiento de Algeciras",
+      "twitter": "aytoalgeciras",
+      "tags": ["ayuntamientos"]
+    }
+  ]
+}

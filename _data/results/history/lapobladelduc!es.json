@@ -1,0 +1,23 @@
+[
+  {
+    "end_time": "Tue, 09 Feb 2021 12:27:32 GMT",
+    "end_time_unix_timestamp": 1612873652,
+    "grade": "C-",
+    "scan_id": 17671020,
+    "score": 45
+  },
+  {
+    "end_time": "Thu, 11 Feb 2021 16:32:58 GMT",
+    "end_time_unix_timestamp": 1613061178,
+    "grade": "D-",
+    "scan_id": 17705237,
+    "score": 25
+  },
+  {
+    "end_time": "Mon, 15 Feb 2021 00:17:18 GMT",
+    "end_time_unix_timestamp": 1613348238,
+    "grade": "C-",
+    "scan_id": 17758764,
+    "score": 45
+  }
+]

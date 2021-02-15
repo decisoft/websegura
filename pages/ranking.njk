@@ -14,14 +14,63 @@ title: "Ranking: Las mejores y las peores webs"
 <h1>🏆
   {{ title }}</h1>
 
+<ul>
+  <li>
+    <a href="#hall-of-fame">🎖️ Hall de la fama</a>
+  </li>
+  <li>
+    <a href="#hall-of-shame">☠️ Hall de la vergüenza</a>
+  </li>
+  <li>
+    <a href="#ranking-provincial">📊 Ranking provincial</a>
+  </li>
+  <li>
+    <a href="#ranking-autonomico">📊 Ranking autonómico</a>
+  </li>
+  <li>🏷️ Rankings temáticos:
+    {% for tag in tags %}
+      <a href="/l/{{ tag.name }}">{{ tag.name }}</a>
+      {% if not loop.last %},
+      {% endif %}
+    {% endfor %}
+  </li>
+</ul>
+
 <section>
   <div class="table-wrapper" id="resultados">
-    <h2 id="hall-of-fame">🎖 Hall de la fama</h2>
+    <h2 id="hall-of-fame">🎖️ Hall de la fama</h2>
     <p>Estos sitios son seguros y tienen una nota A o B.</p>
-    {{ tabla(all | scoreGt(60), path=page.url) }}
+    {{ tabla(all | scoreGt(69), path=page.url) }}
 
-    <h2 id="hall-of-shame">🤦‍♂️ Hall de la vergüenza</h2>
+    <h2 id="hall-of-shame">☠️ Hall de la vergüenza</h2>
     <p>Estos sitios son completamente inseguros, ¡no implementan ninguna medida de seguridad!</p>
     {{ tabla(all | testsPassedLt(5), path=page.url) }}
   </div>
+
+  <h2>📊 Ranking provincial</h2>
+  <p>Porcentajes de sitios provinciales o locales seguros.</p>
+  <div class="score-list-wrapper" id="ranking-provincial">
+    {% for p in territories | getSubTerritories | sort(reverse = true, attribute = 'safeScore') %}
+      <div class="score-container" title="{{ p.safeScore }}% de las webs suficientemente seguras">
+        <a href="/p/{{ p.id }}/">{{ p.name }}</a>
+        <div class="score-bar">
+          <div class="score-progress" data-score="{{ p.safeScore }}"></div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+  <h2>📊 Ranking autonómico</h2>
+  <p>Porcentajes de sitios autonómicos seguros.</p>
+  <div class="score-list-wrapper" id="ranking-autonomico">
+    {% for c in territories | sort(reverse = true, attribute = 'safeScore') %}
+      <div class="score-container" title="{{ c.safeScore }}% de las webs suficientemente seguras">
+        <a href="/c/{{ c.id }}/">{{ c.name }}</a>
+        <div class="score-bar">
+          <div class="score-progress" data-score="{{ c.safeScore }}"></div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
 </section>

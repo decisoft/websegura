@@ -1,0 +1,30 @@
+{
+  "algorithm_version": 2,
+  "end_time": "Sun, 14 Feb 2021 16:15:30 GMT",
+  "grade": "F",
+  "hidden": false,
+  "likelihood_indicator": "MEDIUM",
+  "response_headers": {
+    "Cache-Control": "store, no-cache, must-revalidate, post-check=0, pre-check=0",
+    "Connection": "Keep-Alive",
+    "Content-Encoding": "gzip",
+    "Content-Length": "5135",
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Sun, 14 Feb 2021 16:15:28 GMT",
+    "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+    "Keep-Alive": "timeout=15, max=100",
+    "Last-Modified": "Sun, 14 Feb 2021 16:15:28 GMT",
+    "Server": "Apache",
+    "Set-Cookie": "SESSbd7c82736214754c6708e7c81b37aec2=8hrt1e2g7gpfqp4ng5mqv69855; path=/; domain=.bopbur.diputaciondeburgos.es",
+    "Vary": "Accept-Encoding",
+    "X-Powered-By": "PHP/5.3.2-1ubuntu4.30"
+  },
+  "scan_id": 17754969,
+  "score": 0,
+  "start_time": "Sun, 14 Feb 2021 16:14:27 GMT",
+  "state": "FINISHED",
+  "status_code": 200,
+  "tests_failed": 7,
+  "tests_passed": 5,
+  "tests_quantity": 12
+}

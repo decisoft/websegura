@@ -1,0 +1,22 @@
+{
+  "algorithm_version": 2,
+  "end_time": "Fri, 12 Feb 2021 23:18:30 GMT",
+  "grade": "D+",
+  "hidden": false,
+  "likelihood_indicator": "MEDIUM",
+  "response_headers": {
+    "Content-Length": "3116",
+    "Content-Type": "text/html;charset=UTF-8",
+    "Set-Cookie": "JSESSIONID=0C6689A8DEEF2AB61C4D04832EC62AFC; Path=/; Secure; HttpOnly",
+    "Strict-Transport-Security": "max-age=31536000",
+    "X-FRAME-OPTIONS": "SAMEORIGIN"
+  },
+  "scan_id": 17727545,
+  "score": 40,
+  "start_time": "Fri, 12 Feb 2021 23:18:14 GMT",
+  "state": "FINISHED",
+  "status_code": 200,
+  "tests_failed": 4,
+  "tests_passed": 8,
+  "tests_quantity": 12
+}

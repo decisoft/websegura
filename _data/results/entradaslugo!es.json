@@ -1,0 +1,32 @@
+{
+  "algorithm_version": 2,
+  "end_time": "Fri, 12 Feb 2021 20:35:29 GMT",
+  "grade": "F",
+  "hidden": false,
+  "likelihood_indicator": "MEDIUM",
+  "response_headers": {
+    "CF-Cache-Status": "DYNAMIC",
+    "CF-RAY": "620918953cc09340-SJC",
+    "Cache-Control": "max-age=0, private",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Fri, 12 Feb 2021 20:35:26 GMT",
+    "Expect-CT": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "NEL": "{\"max_age\":604800,\"report_to\":\"cf-nel\"}",
+    "Report-To": "{\"group\":\"cf-nel\",\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report?s=uqWgrqR%2F7pgPZSO3z3lEdlEWJgxjo5EvPX68eNFtJWn7IXzzdT8oCw0qQWxf3zy6AKqRQ5HhQRF1LRhNx3AsgT2NGXBZNrjwDJWUuk8OjElIguxbYMpKm%2Bk4aEE%3D\"}],\"max_age\":604800}",
+    "Server": "cloudflare",
+    "Set-Cookie": "__cfduid=d726edaa0625ccb9488b85689ca19e13d1613162125; expires=Sun, 14-Mar-21 20:35:25 GMT; path=/; domain=.entradaslugo.es; HttpOnly; SameSite=Lax, PHPSESSID=ou7rabr87laui9suu8ot1qlus7; path=/",
+    "Strict-Transport-Security": "max-age=63072000",
+    "Transfer-Encoding": "chunked",
+    "cf-request-id": "08398db14300009340180d4000000001"
+  },
+  "scan_id": 17725920,
+  "score": 5,
+  "start_time": "Fri, 12 Feb 2021 20:34:12 GMT",
+  "state": "FINISHED",
+  "status_code": 200,
+  "tests_failed": 6,
+  "tests_passed": 6,
+  "tests_quantity": 12
+}

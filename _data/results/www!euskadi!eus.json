@@ -1,0 +1,29 @@
+{
+  "algorithm_version": 2,
+  "end_time": "Fri, 12 Feb 2021 17:43:56 GMT",
+  "grade": "D",
+  "hidden": false,
+  "likelihood_indicator": "MEDIUM",
+  "response_headers": {
+    "Accept-Ranges": "bytes",
+    "Access-Control-Allow-Origin": "*",
+    "Connection": "Keep-Alive",
+    "Content-Type": "text/html; charset=ISO-8859-1",
+    "Date": "Fri, 12 Feb 2021 17:43:54 GMT",
+    "ETag": "\"3a23-5b43a6d83a480\"",
+    "Keep-Alive": "timeout=5, max=99",
+    "Server": "Apache",
+    "Set-Cookie": "r01euskadiUserCookie=YCa@WpjknCzD1g9xbGlK6QAAAYw; path=/; domain=euskadi.eus; expires=Mon, 26-Nov-2035 17:43:54 GMT, Apache=6b1f429f.5bb272e175eb3; path=/, r01euskadiCookie=web01_eu; path=/; domain=euskadi.eus; expires=Mon, 26-Nov-2035 17:43:54 GMT, r01PortalInfo=web01-hasiera/eu; path=/; domain=www.euskadi.eus, Apache=2a5a11b6.5bb272e175eb3; path=/",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Transfer-Encoding": "chunked",
+    "Vary": "Cookie,User-Agent,X-Forwarded-Proto,isSecure"
+  },
+  "scan_id": 17723962,
+  "score": 35,
+  "start_time": "Fri, 12 Feb 2021 17:43:18 GMT",
+  "state": "FINISHED",
+  "status_code": 200,
+  "tests_failed": 5,
+  "tests_passed": 7,
+  "tests_quantity": 12
+}

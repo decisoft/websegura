@@ -1,0 +1,12 @@
+{
+  "name": "Soria",
+  "comunidad": "castilla-y-leon",
+  "webs": [
+    {
+      "url": "www.soria.es",
+      "name": "Ayuntamiento de Soria",
+      "twitter": "Ayto_Soria",
+      "tags": ["ayuntamientos"]
+    }
+  ]
+}

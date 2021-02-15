@@ -1,0 +1,31 @@
+{
+  "algorithm_version": 2,
+  "end_time": "Fri, 12 Feb 2021 20:36:03 GMT",
+  "grade": "F",
+  "hidden": false,
+  "likelihood_indicator": "MEDIUM",
+  "response_headers": {
+    "Cache-Control": "no-cache, must-revalidate",
+    "Content-Encoding": "gzip",
+    "Content-Language": "gl",
+    "Content-Length": "21370",
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Fri, 12 Feb 2021 20:35:31 GMT",
+    "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
+    "Link": "<http://www.monfortedelemos.es/gl>; rel=\"canonical\",<http://www.monfortedelemos.es/gl>; rel=\"shortlink\"",
+    "Server": "Microsoft-IIS/8.0",
+    "Vary": "Accept-Encoding",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-Generator": "Drupal by prowebpc.com",
+    "X-Powered-By": "PHP/5.6.36, ASP.NET"
+  },
+  "scan_id": 17725924,
+  "score": 0,
+  "start_time": "Fri, 12 Feb 2021 20:34:12 GMT",
+  "state": "FINISHED",
+  "status_code": 200,
+  "tests_failed": 5,
+  "tests_passed": 7,
+  "tests_quantity": 12
+}

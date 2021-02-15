@@ -1,0 +1,16 @@
+[
+  {
+    "end_time": "Sun, 07 Jan 2018 19:52:39 GMT",
+    "end_time_unix_timestamp": 1515354759,
+    "grade": "F",
+    "scan_id": 6302808,
+    "score": 0
+  },
+  {
+    "end_time": "Tue, 09 Feb 2021 18:24:23 GMT",
+    "end_time_unix_timestamp": 1612895063,
+    "grade": "F",
+    "scan_id": 17675773,
+    "score": 10
+  }
+]

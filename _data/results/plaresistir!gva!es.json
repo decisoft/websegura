@@ -1,0 +1,27 @@
+{
+  "algorithm_version": 2,
+  "end_time": "Fri, 12 Feb 2021 18:22:15 GMT",
+  "grade": "F",
+  "hidden": false,
+  "likelihood_indicator": "MEDIUM",
+  "response_headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Encoding": "gzip",
+    "Content-Length": "4511",
+    "Content-Type": "text/html",
+    "Date": "Fri, 12 Feb 2021 18:22:12 GMT",
+    "ETag": "\"8038ff23271d71:0\"",
+    "Last-Modified": "Fri, 12 Feb 2021 10:09:25 GMT",
+    "Server": "Microsoft-IIS/10.0",
+    "Vary": "Accept-Encoding",
+    "X-Powered-By": "ASP.NET"
+  },
+  "scan_id": 17724434,
+  "score": 15,
+  "start_time": "Fri, 12 Feb 2021 18:22:10 GMT",
+  "state": "FINISHED",
+  "status_code": 200,
+  "tests_failed": 6,
+  "tests_passed": 6,
+  "tests_quantity": 12
+}

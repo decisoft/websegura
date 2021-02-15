@@ -1,25 +1,24 @@
 {
   "name": "Murcia",
+  "comunidad": "region-murcia",
   "webs": [
-    {
-      "url": "www.carm.es",
-      "name": "Región de Murcia",
-      "twitter": "regiondemurcia"
-    },
     {
       "url": "www.lorca.es",
       "name": "Ayuntamiento de Lorca",
-      "twitter": "AytoLorca"
+      "twitter": "AytoLorca",
+      "tags": ["ayuntamientos"]
     },
     {
       "url": "www.murcia.es",
       "name": "Ayuntamiento de Murcia",
-      "twitter": "AytoMurcia"
+      "twitter": "AytoMurcia",
+      "tags": ["ayuntamientos"]
     },
     {
       "url": "www.cartagena.es",
       "name": "Ayuntamiento de Cartagena",
-      "twitter": "AytoCartagenaES"
+      "twitter": "AytoCartagenaES",
+      "tags": ["ayuntamientos"]
     },
     {
       "url": "turismodemurcia.es",
@@ -39,7 +38,8 @@
     {
       "url": "www.um.es",
       "name": "Universidad de Murcia",
-      "twitter": "UMU"
+      "twitter": "UMU",
+      "tags": ["universidades"]
     },
     {
       "url": "www.upct.es",
@@ -60,11 +60,6 @@
       "url": "www.sefcarm.es",
       "name": "Servicio Murciano de Empleo",
       "twitter": "ser_carm"
-    },
-    {
-      "url": "sede.carm.es",
-      "name": "Sede electrónica de la Región de Murcia",
-      "twitter": "regiondemurcia"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "algorithm_version": 2,
+  "end_time": "Sat, 13 Feb 2021 18:19:52 GMT",
+  "grade": "F",
+  "hidden": false,
+  "likelihood_indicator": "MEDIUM",
+  "response_headers": {
+    "Connection": "Keep-Alive",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Sat, 13 Feb 2021 18:19:48 GMT",
+    "Keep-Alive": "timeout=5, max=99",
+    "Liferay-Portal": "Liferay Portal Enterprise Edition 6.2.10 EE GA1 (Newton / Build 6210 / November 1, 2013)",
+    "Server": "Apache",
+    "Transfer-Encoding": "chunked",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-XSS-Protection": "1"
+  },
+  "scan_id": 17739940,
+  "score": 0,
+  "start_time": "Sat, 13 Feb 2021 18:19:43 GMT",
+  "state": "FINISHED",
+  "status_code": 200,
+  "tests_failed": 4,
+  "tests_passed": 8,
+  "tests_quantity": 12
+}

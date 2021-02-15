@@ -1,0 +1,26 @@
+{
+  "algorithm_version": 2,
+  "end_time": "Sun, 14 Feb 2021 18:30:56 GMT",
+  "grade": "F",
+  "hidden": true,
+  "likelihood_indicator": "MEDIUM",
+  "response_headers": {
+    "AMFplus-Ver": "1.4.0.0",
+    "Accept-Ranges": "bytes",
+    "Connection": "close",
+    "Content-Language": "es",
+    "Content-Type": "text/html; charset=ISO-8859-1",
+    "Date": "Sun, 14 Feb 2021 18:30:50 GMT",
+    "Server": "Apache",
+    "Transfer-Encoding": "chunked",
+    "X-UA-Compatible": "IE=EmulateIE7, IE=11"
+  },
+  "scan_id": 17755981,
+  "score": 0,
+  "start_time": "Sun, 14 Feb 2021 18:30:46 GMT",
+  "state": "FINISHED",
+  "status_code": 200,
+  "tests_failed": 7,
+  "tests_passed": 5,
+  "tests_quantity": 12
+}

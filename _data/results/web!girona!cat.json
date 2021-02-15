@@ -1,0 +1,32 @@
+{
+  "algorithm_version": 2,
+  "end_time": "Sun, 14 Feb 2021 16:15:44 GMT",
+  "grade": "F",
+  "hidden": false,
+  "likelihood_indicator": "MEDIUM",
+  "response_headers": {
+    "Access-Control-Allow-Origin": "*",
+    "Cache-Control": "private, no-cache, no-store, must-revalidate",
+    "Connection": "keep-alive",
+    "Content-Encoding": "gzip",
+    "Content-Length": "22455",
+    "Content-Type": "text/html;charset=UTF-8",
+    "Date": "Sun, 14 Feb 2021 16:15:26 GMT",
+    "Expires": "Thu, 01 Jan 1970 00:00:00 GMT",
+    "Liferay-Portal": "Liferay Community Edition Portal 7.3.4 CE GA5 (Athanasius / Build 7304 / August 11, 2020)",
+    "Pragma": "no-cache",
+    "Set-Cookie": "JSESSIONID=DD739F188D478A24EB2E17F904505447; Path=/; HttpOnly, COOKIE_SUPPORT=yQ/aoiFowjTExmKLgNwcKcyxjc7T2ySx+xV9vHKbkNE=; Max-Age=31536000; Expires=Mon, 14-Feb-2022 16:15:20 GMT; Path=/; HttpOnly, SERVERID=yQ/aoiFowjTExmKLgNwcKYB9ltzedWTG9lHDCLeFk5E=; path=/",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-HW": "1613319326.cds056.sj3.hn,1613319326.cds049.sj3.sc,1613319326.cds049.sj3.p",
+    "X-XSS-Protection": "1; mode=block"
+  },
+  "scan_id": 17754971,
+  "score": 0,
+  "start_time": "Sun, 14 Feb 2021 16:14:27 GMT",
+  "state": "FINISHED",
+  "status_code": 200,
+  "tests_failed": 4,
+  "tests_passed": 8,
+  "tests_quantity": 12
+}

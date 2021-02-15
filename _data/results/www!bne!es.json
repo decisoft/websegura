@@ -1,0 +1,27 @@
+{
+  "algorithm_version": 2,
+  "end_time": "Sun, 14 Feb 2021 11:21:16 GMT",
+  "grade": "F",
+  "hidden": false,
+  "likelihood_indicator": "MEDIUM",
+  "response_headers": {
+    "Connection": "Keep-Alive",
+    "Content-Encoding": "gzip",
+    "Content-Length": "223",
+    "Content-Type": "text/html;charset=UTF-8",
+    "Date": "Sun, 14 Feb 2021 11:21:05 GMT",
+    "Keep-Alive": "timeout=4, max=100",
+    "Last-Modified": "Sun, 14 Feb 2021 11:21:05 GMT",
+    "Server": "Apache",
+    "Set-Cookie": "JSESSIONID=49AB080527A7F8AFAA2B1A4C3A38F2C9; Path=/",
+    "Vary": "Accept-Encoding,User-Agent"
+  },
+  "scan_id": 17752475,
+  "score": 0,
+  "start_time": "Sun, 14 Feb 2021 11:21:06 GMT",
+  "state": "FINISHED",
+  "status_code": 200,
+  "tests_failed": 7,
+  "tests_passed": 5,
+  "tests_quantity": 12
+}

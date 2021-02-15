@@ -1,0 +1,33 @@
+{
+  "algorithm_version": 2,
+  "end_time": "Sat, 13 Feb 2021 10:52:21 GMT",
+  "grade": "F",
+  "hidden": false,
+  "likelihood_indicator": "MEDIUM",
+  "response_headers": {
+    "Accept-Ranges": "bytes",
+    "Age": "155",
+    "Cache-Control": "max-age=300, public",
+    "Content-Encoding": "gzip",
+    "Content-Length": "16407",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Content-language": "es",
+    "Date": "Sat, 13 Feb 2021 10:49:39 GMT",
+    "ETag": "W/\"1613149227\"",
+    "Expires": "Sat, 13 Feb 2021 17:00:28 GMT",
+    "Last-Modified": "Fri, 12 Feb 2021 17:00:27 GMT",
+    "Link": "<https://www.eoi.es/es>; rel=\"shortlink\", <https://www.eoi.es/es>; rel=\"canonical\", <https://www.eoi.es/en/home>; rel=\"alternate\"; hreflang=\"en\", <https://www.eoi.es/es/inicio>; rel=\"alternate\"; hreflang=\"es\", <https://www.eoi.es/es/inicio>; rel=\"revision\"",
+    "Vary": "Cookie, Accept-Encoding",
+    "X-Content-Type-Options": "nosniff",
+    "X-Frame-Options": "SAMEORIGIN",
+    "X-UA-Compatible": "IE=edge"
+  },
+  "scan_id": 17734752,
+  "score": 0,
+  "start_time": "Sat, 13 Feb 2021 10:52:09 GMT",
+  "state": "FINISHED",
+  "status_code": 200,
+  "tests_failed": 4,
+  "tests_passed": 8,
+  "tests_quantity": 12
+}

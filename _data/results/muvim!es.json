@@ -1,0 +1,23 @@
+{
+  "algorithm_version": 2,
+  "end_time": "Mon, 15 Feb 2021 11:16:14 GMT",
+  "grade": "F",
+  "hidden": false,
+  "likelihood_indicator": "MEDIUM",
+  "response_headers": {
+    "Connection": "keep-alive",
+    "Content-Length": "173",
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Mon, 15 Feb 2021 11:16:13 GMT",
+    "Keep-Alive": "timeout=10",
+    "Server": "nginx/1.14.2"
+  },
+  "scan_id": 17766023,
+  "score": 0,
+  "start_time": "Mon, 15 Feb 2021 11:16:11 GMT",
+  "state": "FINISHED",
+  "status_code": 502,
+  "tests_failed": 6,
+  "tests_passed": 6,
+  "tests_quantity": 12
+}

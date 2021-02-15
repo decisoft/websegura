@@ -1,0 +1,27 @@
+{
+  "algorithm_version": 2,
+  "end_time": "Fri, 12 Feb 2021 23:18:29 GMT",
+  "grade": "F",
+  "hidden": false,
+  "likelihood_indicator": "MEDIUM",
+  "response_headers": {
+    "Connection": "Keep-Alive",
+    "Content-Encoding": "gzip",
+    "Content-Length": "10612",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Fri, 12 Feb 2021 23:18:19 GMT",
+    "Keep-Alive": "timeout=5, max=100",
+    "Link": "<https://intef.es/wp-json/>; rel=\"https://api.w.org/\", <https://intef.es/>; rel=shortlink",
+    "Server": "Apache",
+    "Set-Cookie": "cookiesession1=66F3CEC6XNO9F3LV7MKQHC2K3XQH7F8A;Path=/;HttpOnly",
+    "Vary": "Accept-Encoding,Cookie"
+  },
+  "scan_id": 17727562,
+  "score": 0,
+  "start_time": "Fri, 12 Feb 2021 23:18:15 GMT",
+  "state": "FINISHED",
+  "status_code": 200,
+  "tests_failed": 8,
+  "tests_passed": 4,
+  "tests_quantity": 12
+}

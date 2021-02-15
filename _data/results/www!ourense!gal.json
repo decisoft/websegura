@@ -1,0 +1,32 @@
+{
+  "algorithm_version": 2,
+  "end_time": "Sun, 14 Feb 2021 19:10:09 GMT",
+  "grade": "F",
+  "hidden": false,
+  "likelihood_indicator": "MEDIUM",
+  "response_headers": {
+    "Cache-Control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+    "Connection": "Keep-Alive",
+    "Content-Encoding": "gzip",
+    "Content-Length": "14606",
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Sun, 14 Feb 2021 19:09:54 GMT",
+    "Expires": "Wed, 17 Aug 2005 00:00:00 GMT",
+    "Keep-Alive": "timeout=4, max=99",
+    "Last-Modified": "Sun, 14 Feb 2021 19:09:55 GMT",
+    "Pragma": "no-cache",
+    "Server": "Apache",
+    "Vary": "Accept-Encoding",
+    "X-Content-Type-Options": "nosniff, nosniff",
+    "X-FRAME-OPTIONS": "SAMEORIGIN",
+    "X-XSS-Protection": "1; mode=block"
+  },
+  "scan_id": 17756237,
+  "score": 5,
+  "start_time": "Sun, 14 Feb 2021 19:09:46 GMT",
+  "state": "FINISHED",
+  "status_code": 200,
+  "tests_failed": 5,
+  "tests_passed": 7,
+  "tests_quantity": 12
+}

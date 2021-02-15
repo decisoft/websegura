@@ -1,143 +1,784 @@
 {
   "name": "Valencia",
-  "comunidad": "valencia",
+  "comunidad": "comunidad-valenciana",
   "webs": [
     {
-        "url": "aumsa.es",
-        "name": "AUMSA",
-        "twitter": "AjuntamentVLC"
+      "url": "www.valencia.es",
+      "name": "Ayuntamiento de València",
+      "twitter": "AjuntamentVLC",
+      "tags": ["ayuntamientos"]
     },
     {
-        "url": "albufera.valencia.es",
-        "name": "Albufera de València",
-        "twitter": "DevesaAlbufera"
+      "url": "www.dival.es",
+      "name": "Diputació de València",
+      "twitter": "dipvalencia"
     },
     {
-        "url": "www.valencia.es",
-        "name": "Ayuntamiento de València",
-        "twitter": "AjuntamentVLC"
+      "url": "www.fdmvalencia.es",
+      "name": "Fundación Deportiva Municipal de Valencia (FDM)",
+      "twitter": "FDMValencia",
+      "tags": ["fundaciones"]
     },
     {
-        "url": "www.cibm-valencia.com",
-        "name": "CIBM-Certamen de Bandas de València",
-        "twitter": "palaumusicavlc"
+      "url": "www.cibm-valencia.com",
+      "name": "CIBM-Certamen de Bandas de València",
+      "twitter": "palaumusicavlc"
     },
     {
-        "url": "comercvlc.es",
-        "name": "Concejalía de Comercio",
-        "twitter": "regidoriacomerc"
+      "url": "www.palauvalencia.com",
+      "name": "Palau de la música",
+      "twitter": "palaumusicavlc"
     },
     {
-        "url": "decidimvlc.valencia.es",
-        "name": "decidimVLC",
-        "twitter": "participaVLC"
+      "url": "www.festesdevalencia.org",
+      "name": "Festes de València",
+      "twitter": "festesdeVLC"
     },
     {
-        "url": "www.emivasa.es",
-        "name": "Emivasa",
-        "twitter": "Emivasa_oficial"
+      "url": "www.fallas.com",
+      "name": "Fallas-Junta Central Fallera",
+      "twitter": "jcf_valencia"
     },
     {
-        "url": "www.emtvalencia.es",
-        "name": "EMT València",
-        "twitter": "emtvalencia"
+      "url": "www.juntacentralvicentina.org",
+      "name": "Junta Central Vicentina",
+      "twitter": "festesdeVLC"
     },
     {
-        "url": "www.fallas.com",
-        "name": "Fallas-Junta Central Fallera",
-        "twitter": "jcf_valencia"
+      "url": "www.semanasantamarinera.org",
+      "name": "Semana Santa Marinera de València",
+      "twitter": "jmssmv"
     },
     {
-        "url": "www.feriavalencia.com",
-        "name": "Feria Valencia",
-        "twitter": "Feria_Valencia"
+      "url": "www.lamutant.com",
+      "name": "La Mutant",
+      "twitter": "LaMutant_"
     },
     {
-        "url": "www.festesdevalencia.org",
-        "name": "Festes de València",
-        "twitter": "festesdeVLC"
+      "url": "www.lasnaves.com",
+      "name": "Las Naves",
+      "twitter": "LasNavesINN"
     },
     {
-        "url": "www.fdmvalencia.es",
-        "name": "Fundación Deportiva Municipal de Valencia (FDM)",
-        "twitter": "FDMValencia"
+      "url": "www.teatreelmusical.es",
+      "name": "Teatro El Musical",
+      "twitter": "TeatreElMusical"
     },
     {
-        "url": "www.juntacentralvicentina.org",
-        "name": "Junta Central Vicentina",
-        "twitter": "festesdeVLC"
+      "url": "mercadocolon.es",
+      "name": "Mercado de Colón",
+      "twitter": "MercadoColonVLC"
     },
     {
-        "url": "www.lamutant.com",
-        "name": "La Mutant",
-        "twitter": "LaMutant_"
+      "url": "www.mercavalencia.es",
+      "name": "Mercavalència",
+      "twitter": "mercavalencia1"
+    },
+    {
+      "url": "valenciactiva.valencia.es",
+      "name": "València Activa",
+      "twitter": "valenciactiva_"
+    },
+    {
+      "url": "www.palcongres-vlc.com",
+      "name": "Palacio Congresos",
+      "twitter": "PalcongresVLC"
+    },
+    {
+      "url": "visitvalencia.com",
+      "name": "Turismo València",
+      "twitter": "Valenciaturismo"
+    },
+    {
+      "url": "comercvlc.es",
+      "name": "Concejalía de Comercio",
+      "twitter": "regidoriacomerc"
+    },
+    {
+      "url": "www.joventut-valencia.es",
+      "name": "Concejalía de Juventud Valencia",
+      "twitter": "JoventutVLC"
+    },
+    {
+      "url": "www.emivasa.es",
+      "name": "Emivasa",
+      "twitter": "Emivasa_oficial"
+    },
+    {
+      "url": "albufera.valencia.es",
+      "name": "Albufera de València",
+      "twitter": "DevesaAlbufera"
+    },
+    {
+      "url": "www.feriavalencia.com",
+      "name": "Feria Valencia",
+      "twitter": "Feria_Valencia"
+    },
+    {
+      "url": "www.tutoriasenred.com",
+      "name": "Tutorías en Red",
+      "twitter": "tutoriasenred"
+    },
+    {
+      "url": "decidimvlc.valencia.es",
+      "name": "decidimVLC",
+      "twitter": "participaVLC"
+    },
+    {
+      "url": "www.emtvalencia.es",
+      "name": "EMT València",
+      "twitter": "emtvalencia"
+    },
+    {
+      "url": "aumsa.es",
+      "name": "AUMSA",
+      "twitter": "AjuntamentVLC"
+    },
+    {
+      "url": "plancabanyal.es",
+      "name": "Plan Cabanyal",
+      "twitter": "urbanismevlc"
+    },
+    {
+      "url": "ocoval.es",
+      "name": "OCOVAL",
+      "twitter": "urbanismevlc"
+    },
+    {
+      "url": "sede.valencia.es",
+      "name": "Sede electrónica València",
+      "twitter": "AjuntamentVLC"
     },
 
     {
-        "url": "www.lasnaves.com",
-        "name": "Las Naves",
-        "twitter": "LasNavesINN"
+      "url": "www.albaida.es",
+      "name": "Ajuntament d'Albaida",
+      "twitter": "AjAlbaida"
     },
     {
-        "url": "mercadocolon.es",
-        "name": "Mercado de Colón",
-        "twitter": "MercadoColonVLC"
+      "url": "www.alcasser.es",
+      "name": "Ayuntamiento de Alcasser",
+      "twitter": "AjuntAlcasser",
+      "tags": ["ayuntamientos"]
     },
     {
-        "url": "www.mercavalencia.es",
-        "name": "Mercavalència",
-        "twitter": "mercavalencia1"
+      "url": "www.alfaradelabaronia.es",
+      "name": "Ayuntamiento de Alfara",
+      "twitter": "aytoalfara",
+      "tags": ["ayuntamientos"]
     },
     {
-        "url": "www.palcongres-vlc.com",
-        "name": "Palacio Congresos",
-        "twitter": "PalcongresVLC"
+      "url": "www.alfarrasi.es",
+      "name": "Ajuntament Alfarrasí",
+      "twitter": "Ajunt_Alfarrasi",
+      "tags": ["ayuntamientos"]
     },
     {
-        "url": "www.palauvalencia.com",
-        "name": "Palau de la música",
-        "twitter": "palaumusicavlc"
+      "url": "www.algardepalancia.es",
+      "name": "Ajuntament d'Algar",
+      "twitter": "AjAlgar",
+      "tags": ["ayuntamientos"]
     },
     {
-        "url": "plancabanyal.es",
-        "name": "Plan Cabanyal",
-        "twitter": "urbanismevlc"
+      "url": "www.algemesi.es",
+      "name": "Ajuntament Algemesí",
+      "twitter": "algemesi_net",
+      "tags": ["ayuntamientos"]
     },
     {
-        "url": "ocoval.es",
-        "name": "OCOVAL",
-        "twitter": "urbanismevlc"
+      "url": "www.algimiadealfara.es",
+      "name": "Ajuntament d'Algímia",
+      "twitter": "AAlgimia",
+      "tags": ["ayuntamientos"]
     },
     {
-        "url": "www.semanasantamarinera.org",
-        "name": "Semana Santa Marinera de València",
-        "twitter": "jmssmv"
+      "url": "www.alginet.es",
+      "name": "Ajuntament d'Alginet",
+      "twitter": "aj_alginet",
+      "tags": ["ayuntamientos"]
     },
     {
-        "url": "www.teatreelmusical.es",
-        "name": "Teatro El Musical",
-        "twitter": "TeatreElMusical"
+      "url": "www.alpuente.es",
+      "name": "Ayuntamiento de Alpuente",
+      "twitter": "AlpuenteA"
     },
     {
-        "url": "www.tutoriasenred.com",
-        "name": "Tutorías en Red",
-        "twitter": "tutoriasenred"
-    },
-
-    {
-        "url": "uv.es",
-        "name": "Universitat València",
-        "twitter": "UV_EG"
+      "url": "www.andilla.es",
+      "name": "Ayuntamiento Andilla",
+      "twitter": "andillaayto",
+      "tags": ["ayuntamientos"]
     },
     {
-        "url": "valenciactiva.valencia.es",
-        "name": "València Activa",
-        "twitter": "valenciactiva_"
+      "url": "www.antella.es",
+      "name": "Ajuntament d'Antella",
+      "twitter": "AjAntella",
+      "tags": ["ayuntamientos"]
     },
     {
-        "url": "visitvalencia.com",
-        "name": "Turismo València",
-        "twitter": "Valenciaturismo"
+      "url": "www.barxeta.es",
+      "name": "Ayuntamiento de Barxeta",
+      "twitter": "Ajunt_Barxeta",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "benetusser.es",
+      "name": "Ayuntamiento de Benetússer",
+      "twitter": "AyuntBenetusser",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "beniculldexuquer.es",
+      "name": "Ajuntament de Benicull de Xúquer",
+      "twitter": "BenicullXu",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "www.beniganim.es",
+      "name": "Ajuntament de Benigànim",
+      "twitter": "ajbeniganim",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "benirredra.es",
+      "name": "Ajuntament de Benirredrà",
+      "twitter": "Benirredra",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "betera.es",
+      "name": "Ajuntament de Bétera",
+      "twitter": "Aytobetera",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "bicorp.es",
+      "name": "Ayuntamiento de Bicorp",
+      "twitter": "AyuntBicorp",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "bocairent.es",
+      "name": "Ayuntamiento de Bocairent",
+      "twitter": "Aj_Bocairent",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "bonreposimirambell.es",
+      "name": "Ayuntamiento de Bonrepòs y Mirambell",
+      "twitter": "BiMajuntament",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "www.carcaixent.es",
+      "name": "Ayuntamiento de Carcaixent",
+      "twitter": "AjCarcaixent",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "camporrobles.es",
+      "name": "Ayuntamiento de Camporrobles",
+      "twitter": "ACamporrobles",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "castielfabib.es",
+      "name": "Ayuntamiento de Castielfabib ",
+      "twitter": "AyuCastielfabib",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "catadau.es",
+      "name": "Ajuntament de Catadau",
+      "twitter": "AjCatadau",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "catarroja.es",
+      "name": "Ayuntamiento de Catarroja",
+      "twitter": "ajuntcatarroja"
+    },
+    {
+      "url": "www.chera.es",
+      "name": "Ayuntamiento de Chera",
+      "twitter": "Chera",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "chiva.es",
+      "name": "Ayuntamiento de Chiva",
+      "twitter": "AyuntaChiva",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "chulilla.es",
+      "name": "Ayuntamiento de Chulilla",
+      "twitter": "aytochulilla",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "corbera.es",
+      "name": "Ajuntament de Corbera",
+      "twitter": "AjuntCorbera",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "cullera.es",
+      "name": "Ajuntament de Cullera",
+      "twitter": "MIA_Cullera",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "visit-cullera.es",
+      "name": "Cullera Turismo",
+      "twitter": "visitcullera"
+    },
+    {
+      "url": "elpalomar.es",
+      "name": "Ayuntamiento de El Palomar",
+      "twitter": "ajelpalomar",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "elperello.es",
+      "name": "Ajuntament de El Perelló",
+      "twitter": "ElPerello_ayto",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "www.elpuig.es",
+      "name": "Ajuntament del Puig",
+      "twitter": "ajunt_elpuig",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "elpuigturistico.net",
+      "name": "Turismo El Puig",
+      "twitter": "elpuigturistico"
+    },
+    {
+      "url": "emperador.es",
+      "name": "Ajuntament d'Emperador",
+      "twitter": "ajuntemperador",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "policialocalenguera.blogspot.com",
+      "name": "Policia Local Enguera",
+      "twitter": "plocalEnguera"
+    },
+    {
+      "url": "estivella.es",
+      "name": "Ayuntamiento de Estivella",
+      "twitter": "AjEstivella",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "foios.es",
+      "name": "Ajuntament de Foios",
+      "twitter": "AFoios",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "www.genoves.es",
+      "name": "Ajuntament del Genovés",
+      "twitter": "AjuntdelGenoves",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "gilet.es",
+      "name": "Ajuntament de Gilet",
+      "twitter": "AjGilet",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "godella.es",
+      "name": "Ajuntament de Godella",
+      "twitter": "Godella",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "godelleta.es",
+      "name": "Ayuntamiento de Godelleta",
+      "twitter": "AytoGodelleta",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "lafontdencarros.es",
+      "name": "Ajuntament de la Font d'en Carròs",
+      "twitter": "FontdEnCarros",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "aytolalcudiadecrespins.es",
+      "name": "Ajuntament de l'Alcúdia",
+      "twitter": "AjuntaAlcudiaCr",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "lallosaderanes.es",
+      "name": "Ayuntamiento de La Llosa de Ranes",
+      "twitter": "AjuntamentLlosa",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "lapoblallarga.es",
+      "name": "Ajuntament de la Pobla Llarga",
+      "twitter": "MIAPoblaLlarga",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "lapobladelduc.es",
+      "name": "Ajuntament de la Pobla del Duc",
+      "twitter": "ajlapobladelduc",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "lliria.es",
+      "name": "Ajuntament de Llíria",
+      "twitter": "aytolliria",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "losadelobispo.es",
+      "name": "Ayuntamiento de Losa del Obispo",
+      "twitter": "LosadelObispo",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "macastre.es",
+      "name": "Ayuntamiento de Macastre",
+      "twitter": "AytoMacastre",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "manises.es",
+      "name": "Ajuntament de Manises",
+      "twitter": "AytoManises",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "massamagrell.es",
+      "name": "Ajuntament de Massamagrell",
+      "twitter": "Aj_Massamagrell",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "meliana.es",
+      "name": "Ajuntament de Meliana",
+      "twitter": "Aj_Meliana",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "moncada.es",
+      "name": "Ajuntament de Moncada",
+      "twitter": "AytoMoncada",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "oliva.es",
+      "name": "Ajuntament d'Oliva",
+      "twitter": "AjuntamentOliva",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "ontinyent.es",
+      "name": "Ajuntament d'Ontinyent",
+      "twitter": "ajOntinyent",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "picassent.es",
+      "name": "Ajuntament de Picassent",
+      "twitter": "A_Picassent",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "quatretonda.es",
+      "name": "Ajuntament de Quatretonda",
+      "twitter": "ajQuatretonda",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "rafelbunyol.es",
+      "name": "Ajuntament de Rafelbunyol",
+      "twitter": "Rafelbunyol_Ajt",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "requena.es",
+      "name": "Ayuntamiento de Requena",
+      "twitter": "AYTOREQUENA",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "rocafort.es",
+      "name": "Ajuntament de Rocafort",
+      "twitter": "RocafortAyto",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "segart.es",
+      "name": "Ajuntament de Segart",
+      "twitter": "ajsegart",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "serra.es",
+      "name": "Ajuntament de Serra",
+      "twitter": "AjuntamentSerra",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "sollana.es",
+      "name": "Ajuntament de Sollana",
+      "twitter": "ajuntsollana",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "sotdechera.es",
+      "name": "Ayuntamiento de Sot de Chera",
+      "twitter": "AytoSot",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "sueca.es",
+      "name": "Ajuntament de Sueca",
+      "twitter": "AjuntamentSueca",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "sumacarcer.es",
+      "name": "Ajuntament de Sumacàrcer",
+      "twitter": "AjuntSumacarcer",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "tavernesblanques.es",
+      "name": "Ayuntamiento de Tavernes Blanques",
+      "twitter": "AytoTBlanques",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "tavernes.es",
+      "name": "Ajuntament de Tavernes de la Valldigna",
+      "twitter": "AjunTavernesV",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "turis.es",
+      "name": "Ajuntament de Turís",
+      "twitter": "ajuntamentturis",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "utiel.es",
+      "name": "Ayuntamiento de Utiel",
+      "twitter": "AytoDeUtiel",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "vallada.es",
+      "name": "Ajuntament de Vallada",
+      "twitter": "Ajt_Vallada",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "vilamarxant.es",
+      "name": "Ajuntament de Vilamarxant",
+      "twitter": "ajvilamarxant",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "castellosom.es",
+      "name": "Ajuntament de Castelló",
+      "twitter": "VvaCastellon",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "villardelarzobispo.es",
+      "name": "Ayuntamiento de Villar del Arzobispo",
+      "twitter": "villararzobispo",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "www.villargordodelcabriel.es",
+      "name": "Ayuntamiento de Villargordo del Cabriel",
+      "twitter": "AytoCabriel",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "vinalesa.es",
+      "name": "Ajuntament de Vinalesa",
+      "twitter": "Aj_Vinalesa",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "www.zarra.es",
+      "name": "Ayuntamiento de Zarra",
+      "twitter": "AytoZarra",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "altoturia.es",
+      "name": "Mancomunidad del AltoTuria",
+      "twitter": "VISITaltoturia"
+    },
+    {
+      "url": "barriodelcristo.es",
+      "name": "Barrio del Cristo",
+      "twitter": "BarriodlCristo"
+    },
+    {
+      "url": "www.mancocarraixet.es",
+      "name": "Mancomunitat de Carcaixent",
+      "twitter": "mancocarraixet"
+    },
+    {
+      "url": "lacanalturismo.com",
+      "name": "Departamento de Turismo de la Mancomunidad La Canal de Navarrés",
+      "twitter": "lacanalturismo"
+    },
+    {
+      "url": "www.lacanaldenavarres.es",
+      "name": "Mancomunidad La Canal de Navarrés",
+      "twitter": "lacanalturismo"
+    },
+    {
+      "url": "ecomuseodebicorp.com",
+      "name": "Ecomuseo de Bicorp",
+      "twitter": "Ecomuseobicorp",
+      "tags": ["museos"]
+    },
+    {
+      "url": "lacosteracanal.es",
+      "name": "Mancomunitat La Costera-Canal",
+      "twitter": "MancoCostera"
+    },
+    {
+      "url": "mancohortasud.es",
+      "name": "Mancomunitat de l'Horta Sud",
+      "twitter": "MancoHortaSud"
+    },
+    {
+      "url": "laserrania.es",
+      "name": "Mancomunidad La Serranía",
+      "twitter": "mancolaserrania"
+    },
+    {
+      "url": "www.divaladl.es",
+      "name": "Xarxa d'Agències de Desenvolupament Local (ADL)",
+      "twitter": "divaladl"
+    },
+    {
+      "url": "mancovall.com",
+      "name": "Mancomunitat de Municipis de la Vall d'Albaida",
+      "twitter": "MlaValldAlbaida"
+    },
+    {
+      "url": "www.fauraweb.net",
+      "name": "Ajuntament de Faura",
+      "twitter": "AjtFaura",
+      "tags": ["ayuntamientos"]
+    },
+    {
+      "url": "www.lesvalls.es",
+      "name": "Mancomunitat de les Valls",
+      "twitter": "dipvalencia"
+    },
+    {
+      "url": "fontdequart.com",
+      "name": "Font de Quart de les Valls",
+      "twitter": "dipvalencia"
+    },
+    {
+      "url": "www.marquesat.es",
+      "name": "Mancomunidad del Marquesat",
+      "twitter": "dipvalencia"
+    },
+    {
+      "url": "rincondeademuz.es",
+      "name": "Mancomunidad Rincón de Ademuz ",
+      "twitter": "dipvalencia"
+    },
+    {
+      "url": "tierradelvino.es",
+      "name": "Mancomunidad Tierra del Vino",
+      "twitter": "MITierradelVino"
+    },
+    {
+      "url": "www.museuvalenciadelafesta.com",
+      "name": "Museu Valencià de la festa de Algemesí ",
+      "twitter": "algemesi_net"
+    },
+    {
+      "url": "www.consorciossnord.es",
+      "name": "Consorcio Comarcal Servicios Sociales Horta Nord",
+      "twitter": "dipvalencia"
+    },
+    {
+      "url": "espaijoanfuster.org",
+      "name": "Espai Joan Fuster",
+      "twitter": "espaijoanfuster"
+    },
+    {
+      "url": "bombersdv.es",
+      "name": "Bombers Consorci VLC",
+      "twitter": "BombersValencia"
+    },
+    {
+      "url": "sarc.es",
+      "name": "Servei d'Assistència i Recursos Culturals",
+      "twitter": "sarc_dival"
+    },
+    {
+      "url": "museuprehistoriavalencia.es",
+      "name": "Museu de Prehistòria de València",
+      "twitter": "muprevalencia"
+    },
+    {
+      "url": "mupreva.es",
+      "name": "Museu de Prehistòria de València",
+      "twitter": "muprevalencia",
+      "tags": ["museos"]
+    },
+    {
+      "url": "letno.es",
+      "name": "Museu Valencià d'Etnologia",
+      "twitter": "letnomuseu",
+      "tags": ["museos"]
+    },
+    {
+      "url": "muvim.es",
+      "name": "MuVIM, Museo Valenciano de la Ilustración y la Modernidad",
+      "twitter": "MuVIM",
+      "tags": ["museos"]
+    },
+    {
+      "url": "museotaurinovalencia.com",
+      "name": "Museo Taurino de Valencia",
+      "twitter": "MuseoTaurinoVal",
+      "tags": ["museos"]
+    },
+    {
+      "url": "www.museutauri.es",
+      "name": "Museo Taurino de Valencia",
+      "twitter": "MuseoTaurinoVal",
+      "tags": ["museos"]
+    },
+    {
+      "url": "www.labeneficencia.es",
+      "name": "Centro Cultural La Beneficència",
+      "twitter": "dipvalencia"
+    },
+    {
+      "url": "alfonselmagnanim.net",
+      "name": "Institució Alfons El Magnànim",
+      "twitter": "Inst_Magnanim"
+    },
+    {
+      "url": "culturadeproximitat.com",
+      "name": "Cultrura de proximitat",
+      "twitter": "Culturadival"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "algorithm_version": 2,
+  "end_time": "Mon, 15 Feb 2021 00:17:17 GMT",
+  "grade": "F",
+  "hidden": false,
+  "likelihood_indicator": "MEDIUM",
+  "response_headers": {
+    "Connection": "Upgrade, Keep-Alive",
+    "Content-Encoding": "gzip",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Mon, 15 Feb 2021 00:16:14 GMT",
+    "Keep-Alive": "timeout=5, max=75",
+    "Link": "<https://www.ecomuseodebicorp.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.ecomuseodebicorp.com/wp-json/wp/v2/pages/663>; rel=\"alternate\"; type=\"application/json\", <https://www.ecomuseodebicorp.com/>; rel=shortlink",
+    "Server": "Apache",
+    "Transfer-Encoding": "chunked",
+    "Upgrade": "h2,h2c",
+    "Vary": "Accept-Encoding"
+  },
+  "scan_id": 17758786,
+  "score": 0,
+  "start_time": "Mon, 15 Feb 2021 00:16:08 GMT",
+  "state": "FINISHED",
+  "status_code": 200,
+  "tests_failed": 6,
+  "tests_passed": 6,
+  "tests_quantity": 12
+}

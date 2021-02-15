@@ -75,5 +75,40 @@
     "grade": "D-",
     "scan_id": 17567851,
     "score": 25
+  },
+  {
+    "end_time": "Sun, 07 Feb 2021 21:33:08 GMT",
+    "end_time_unix_timestamp": 1612733588,
+    "grade": "C-",
+    "scan_id": 17643687,
+    "score": 45
+  },
+  {
+    "end_time": "Tue, 09 Feb 2021 10:20:14 GMT",
+    "end_time_unix_timestamp": 1612866014,
+    "grade": "D-",
+    "scan_id": 17669396,
+    "score": 25
+  },
+  {
+    "end_time": "Wed, 10 Feb 2021 23:11:16 GMT",
+    "end_time_unix_timestamp": 1612998676,
+    "grade": "C-",
+    "scan_id": 17695082,
+    "score": 45
+  },
+  {
+    "end_time": "Fri, 12 Feb 2021 15:48:48 GMT",
+    "end_time_unix_timestamp": 1613144928,
+    "grade": "D-",
+    "scan_id": 17722384,
+    "score": 25
+  },
+  {
+    "end_time": "Sat, 13 Feb 2021 19:02:12 GMT",
+    "end_time_unix_timestamp": 1613242932,
+    "grade": "C-",
+    "scan_id": 17740517,
+    "score": 45
   }
 ]

@@ -1,0 +1,31 @@
+{
+  "algorithm_version": 2,
+  "end_time": "Fri, 12 Feb 2021 17:43:59 GMT",
+  "grade": "C",
+  "hidden": false,
+  "likelihood_indicator": "MEDIUM",
+  "response_headers": {
+    "Cache-Control": "private, max-age=0",
+    "Content-Encoding": "gzip",
+    "Content-Length": "21244",
+    "Content-Type": "text/html; charset=utf-8",
+    "Date": "Fri, 12 Feb 2021 17:43:55 GMT",
+    "Expires": "Thu, 28 Jan 2021 17:43:55 GMT",
+    "Last-Modified": "Fri, 12 Feb 2021 17:43:55 GMT",
+    "MicrosoftSharePointTeamServices": "14.0.0.6114",
+    "SPRequestGuid": "ca8c1a65-8fcc-4509-ad42-bc952f50c09f",
+    "Set-Cookie": "ASP.NET_SessionId=ip4igrr3ewi5sv5521x0t4fl; path=/; HttpOnly; secure",
+    "Vary": "Accept-Encoding",
+    "X-FRAME-OPTIONS": "SAMEORIGIN",
+    "X-SharePointHealthScore": "5",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "scan_id": 17723958,
+  "score": 55,
+  "start_time": "Fri, 12 Feb 2021 17:43:18 GMT",
+  "state": "FINISHED",
+  "status_code": 200,
+  "tests_failed": 4,
+  "tests_passed": 8,
+  "tests_quantity": 12
+}

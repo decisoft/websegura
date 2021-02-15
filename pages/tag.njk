@@ -1,0 +1,26 @@
+---
+layout: base
+pagination:
+  data: tags
+  size: 1
+  alias: tag
+title: "Ranking"
+permalink: "l/{{ tag.name | slug }}/"
+---
+
+{% from "tabla.njk" import tabla %}
+
+<p id="breadcumbs">
+  <a href="/">España</a>
+  -
+  <a href="/ranking/">Ranking</a>
+  -
+  Ranking {{ tag.name }}</p>
+
+<h1>🏆 Ranking {{ tag.description }}</h1>
+
+<section>
+  <div class="table-wrapper" id="resultados">
+  {{ tabla(all | tagged(tag), path=page.url) }}
+  </div>
+</section>
