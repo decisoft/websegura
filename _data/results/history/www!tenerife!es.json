@@ -12,5 +12,12 @@
     "grade": "D+",
     "scan_id": 18175431,
     "score": 40
+  },
+  {
+    "end_time": "Sun, 21 Mar 2021 00:41:02 GMT",
+    "end_time_unix_timestamp": 1616287262,
+    "grade": "F",
+    "scan_id": 18310922,
+    "score": 20
   }
 ]
