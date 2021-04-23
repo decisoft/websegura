@@ -1,21 +1,21 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 20 Apr 2021 00:56:01 GMT",
+  "end_time": "Fri, 23 Apr 2021 00:27:09 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "close",
     "Content-Language": "ca",
+    "Content-Length": "34521",
     "Content-Type": "text/html",
-    "Date": "Tue, 20 Apr 2021 01:00:55 GMT",
-    "Last-Modified": "Tue, 20 Apr 2021 01:00:54 GMT",
-    "Server": "Apache-Coyote/1.1",
-    "Transfer-Encoding": "chunked"
+    "Date": "Fri, 23 Apr 2021 00:32:21 GMT",
+    "Last-Modified": "Thu, 22 Apr 2021 23:59:15 GMT",
+    "Server": "Apache-Coyote/1.1"
   },
-  "scan_id": 18764700,
+  "scan_id": 18805529,
   "score": 0,
-  "start_time": "Tue, 20 Apr 2021 00:55:45 GMT",
+  "start_time": "Fri, 23 Apr 2021 00:26:55 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
