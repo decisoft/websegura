@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 11 May 2021 00:20:36 GMT",
+  "end_time": "Sat, 15 May 2021 00:54:16 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Encoding": "gzip",
     "Content-Length": "169",
     "Content-Type": "text/html",
-    "Date": "Tue, 11 May 2021 00:20:35 GMT",
+    "Date": "Sat, 15 May 2021 00:54:15 GMT",
     "ETag": "\"d1-56f3595af1aab-gzip\"",
     "Keep-Alive": "timeout=2, max=100",
     "Last-Modified": "Fri, 22 Jun 2018 07:00:18 GMT",
@@ -18,12 +18,12 @@
     "Upgrade": "h2,h2c",
     "Vary": "Accept-Encoding,User-Agent"
   },
-  "scan_id": 19102560,
-  "score": 0,
-  "start_time": "Tue, 11 May 2021 00:20:31 GMT",
+  "scan_id": 19161840,
+  "score": 20,
+  "start_time": "Sat, 15 May 2021 00:53:40 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
-  "tests_passed": 6,
+  "tests_failed": 5,
+  "tests_passed": 7,
   "tests_quantity": 12
 }
