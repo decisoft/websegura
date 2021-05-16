@@ -1,19 +1,19 @@
 {
   "algorithm_version": 2,
-  "end_time": "Thu, 13 May 2021 00:07:25 GMT",
+  "end_time": "Sun, 16 May 2021 00:58:53 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "close",
     "Content-Type": "text/html;charset=UTF-8",
-    "Date": "Thu, 13 May 2021 00:07:24 GMT",
+    "Date": "Sun, 16 May 2021 00:58:52 GMT",
     "Keep-Alive": "timeout=5, max=99",
-    "Set-Cookie": "JSESSIONID=B2ED3D7B9C58A9D98B1653AC820CBC55; Path=/; Secure; HttpOnly"
+    "Set-Cookie": "JSESSIONID=521BF2CCB5703735FFA2A36021D56DB4; Path=/; Secure; HttpOnly"
   },
-  "scan_id": 19131104,
+  "scan_id": 19179235,
   "score": 20,
-  "start_time": "Thu, 13 May 2021 00:05:31 GMT",
+  "start_time": "Sun, 16 May 2021 00:58:44 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 5,
