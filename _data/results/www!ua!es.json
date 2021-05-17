@@ -1,7 +1,7 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 14 May 2021 00:10:05 GMT",
-  "grade": "C+",
+  "end_time": "Mon, 17 May 2021 00:54:30 GMT",
+  "grade": "B",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -10,7 +10,7 @@
     "Content-Length": "19292",
     "Content-Security-Policy": "default-src https: blob: 'unsafe-inline' 'unsafe-eval'; img-src data: https:",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Fri, 14 May 2021 00:09:51 GMT",
+    "Date": "Mon, 17 May 2021 00:54:25 GMT",
     "Feature-Policy": "microphone 'self'; payment 'none'; sync-xhr 'self'",
     "Keep-Alive": "timeout=5, max=100",
     "Referrer-Policy": "same-origin",
@@ -21,9 +21,9 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-XSS-Protection": "1; mode=block"
   },
-  "scan_id": 19145853,
-  "score": 60,
-  "start_time": "Fri, 14 May 2021 00:06:45 GMT",
+  "scan_id": 19197163,
+  "score": 70,
+  "start_time": "Mon, 17 May 2021 00:54:18 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 2,
