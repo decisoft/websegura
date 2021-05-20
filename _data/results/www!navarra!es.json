@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 16 May 2021 00:58:52 GMT",
+  "end_time": "Thu, 20 May 2021 00:15:32 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,15 +9,15 @@
     "Content-Length": "105",
     "Content-Location": "http://www.navarra.es/Default.htm",
     "Content-Type": "text/html",
-    "Date": "Sun, 16 May 2021 00:58:49 GMT",
+    "Date": "Thu, 20 May 2021 00:15:29 GMT",
     "ETag": "\"d9d5d17f93efcb1:324ee\"",
     "Last-Modified": "Thu, 31 Mar 2011 11:05:09 GMT",
     "Server": "Microsoft-IIS/6.0",
-    "Set-Cookie": "GN=!E98A1W8MHFMvzYl41pjVytxnK1bsrNfTEO9OaiakQSA0mfFb6IFElDR8TEz9xgTdEs99wFOPKs4kmQ==; path=/; Httponly; Secure"
+    "Set-Cookie": "GN=!jZNXdiUxha0MMLN41pjVytxnK1bsrHp6P6uxYX3uAozPr2SpwpYvImR6fC+bVqup6XX/VJAdZ3Wbzw==; path=/; Httponly; Secure"
   },
-  "scan_id": 19179250,
+  "scan_id": 19243558,
   "score": 0,
-  "start_time": "Sun, 16 May 2021 00:58:44 GMT",
+  "start_time": "Thu, 20 May 2021 00:15:26 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
