@@ -1,24 +1,23 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 18 May 2021 00:08:43 GMT",
+  "end_time": "Sat, 22 May 2021 00:54:47 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
-    "Content-Length": "257222",
+    "Content-Length": "82964",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Tue, 18 May 2021 00:08:19 GMT",
-    "Link": "<http://www.baranain.es/wp-json/>; rel=\"https://api.w.org/\", <http://www.baranain.es/>; rel=shortlink",
+    "Date": "Sat, 22 May 2021 00:54:24 GMT",
+    "Link": "<https://www.baranain.es/wp-json/>; rel=\"https://api.w.org/\"",
     "Server": "Microsoft-IIS/8.5",
-    "Set-Cookie": "qtrans_front_language=es; expires=Wed, 18-May-2022 00:08:17 GMT; Max-Age=31536000; path=/",
-    "X-Powered-By": "PHP/5.6.21, ASP.NET"
+    "X-Powered-By": "PHP/7.4.12, ASP.NET"
   },
-  "scan_id": 19213022,
+  "scan_id": 19270439,
   "score": 0,
-  "start_time": "Tue, 18 May 2021 00:07:15 GMT",
+  "start_time": "Sat, 22 May 2021 00:54:07 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 8,
-  "tests_passed": 4,
+  "tests_failed": 6,
+  "tests_passed": 6,
   "tests_quantity": 12
 }
