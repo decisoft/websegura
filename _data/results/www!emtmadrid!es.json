@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 21 May 2021 00:16:31 GMT",
+  "end_time": "Mon, 24 May 2021 00:58:28 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,9 +8,9 @@
     "Cache-Control": "private, no-store, must-revalidate",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Fri, 21 May 2021 00:16:52 GMT",
+    "Date": "Mon, 24 May 2021 00:59:04 GMT",
     "Server": "Microsoft-IIS/8.5",
-    "Set-Cookie": "ASP.NET_SessionId=ijcfp3akclgz03lldg55d1t4; path=/; HttpOnly",
+    "Set-Cookie": "ASP.NET_SessionId=hu5afxj41x4jpuehfqokvxxd; path=/; HttpOnly",
     "Transfer-Encoding": "chunked",
     "Vary": "Accept-Encoding",
     "X-AspNet-Version": "4.0.30319",
@@ -18,12 +18,12 @@
     "X-Powered-By": "ASP.NET",
     "X-UA-Compatible": "IE=Edge"
   },
-  "scan_id": 19254310,
+  "scan_id": 19300223,
   "score": 0,
-  "start_time": "Fri, 21 May 2021 00:15:58 GMT",
+  "start_time": "Mon, 24 May 2021 00:58:17 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
-  "tests_passed": 6,
+  "tests_failed": 7,
+  "tests_passed": 5,
   "tests_quantity": 12
 }
