@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sat, 22 May 2021 00:54:19 GMT",
+  "end_time": "Tue, 25 May 2021 00:57:11 GMT",
   "grade": "C+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "es",
     "Content-Type": "text/html;charset=utf-8",
-    "Date": "Sat, 22 May 2021 00:54:12 GMT",
+    "Date": "Tue, 25 May 2021 00:57:08 GMT",
     "Expires": "Sat, 01 Jan 2000 00:00:00 GMT",
     "Keep-Alive": "timeout=15, max=100",
     "Server": "nginx/1.6.2",
@@ -21,9 +21,9 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-Ua-Compatible": "IE=edge"
   },
-  "scan_id": 19270456,
+  "scan_id": 19317086,
   "score": 60,
-  "start_time": "Sat, 22 May 2021 00:54:07 GMT",
+  "start_time": "Tue, 25 May 2021 00:57:04 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,
