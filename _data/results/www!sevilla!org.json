@@ -1,7 +1,7 @@
 {
   "algorithm_version": 2,
-  "end_time": "Tue, 25 May 2021 00:57:11 GMT",
-  "grade": "C+",
+  "end_time": "Fri, 28 May 2021 01:24:37 GMT",
+  "grade": "D+",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
@@ -9,7 +9,7 @@
     "Content-Encoding": "gzip",
     "Content-Language": "es",
     "Content-Type": "text/html;charset=utf-8",
-    "Date": "Tue, 25 May 2021 00:57:08 GMT",
+    "Date": "Fri, 28 May 2021 01:24:31 GMT",
     "Expires": "Sat, 01 Jan 2000 00:00:00 GMT",
     "Keep-Alive": "timeout=15, max=100",
     "Server": "nginx/1.6.2",
@@ -18,15 +18,15 @@
     "Vary": "Accept-Encoding",
     "X-Cache-Status": "HIT",
     "X-Content-Type-Options": "nosniff",
-    "X-Frame-Options": "SAMEORIGIN",
+    "X-Frame-Options": "SAMEORIGIN, SAMEORIGIN",
     "X-Ua-Compatible": "IE=edge"
   },
-  "scan_id": 19317086,
-  "score": 60,
-  "start_time": "Tue, 25 May 2021 00:57:04 GMT",
+  "scan_id": 19364563,
+  "score": 40,
+  "start_time": "Fri, 28 May 2021 01:24:27 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 3,
-  "tests_passed": 9,
+  "tests_failed": 4,
+  "tests_passed": 8,
   "tests_quantity": 12
 }
