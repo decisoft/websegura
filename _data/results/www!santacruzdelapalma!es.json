@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 28 May 2021 01:24:53 GMT",
+  "end_time": "Mon, 31 May 2021 02:01:37 GMT",
   "grade": "C-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,7 +9,7 @@
     "Connection": "Keep-Alive",
     "Content-Language": "es",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Fri, 28 May 2021 01:24:31 GMT",
+    "Date": "Mon, 31 May 2021 02:01:01 GMT",
     "Expires": "Sun, 19 Nov 1978 05:00:00 GMT",
     "Keep-Alive": "timeout=15, max=99",
     "Server": "Apache",
@@ -18,9 +18,9 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-Generator": "Drupal 7 (http://drupal.org)"
   },
-  "scan_id": 19364562,
+  "scan_id": 19417205,
   "score": 45,
-  "start_time": "Fri, 28 May 2021 01:24:27 GMT",
+  "start_time": "Mon, 31 May 2021 02:00:56 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,
