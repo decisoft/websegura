@@ -1,24 +1,25 @@
 {
   "algorithm_version": 2,
-  "end_time": "Mon, 07 Jun 2021 00:13:17 GMT",
+  "end_time": "Thu, 10 Jun 2021 00:52:27 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Connection": "Keep-Alive",
-    "Content-Length": "45504",
+    "Content-Length": "45101",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Mon, 07 Jun 2021 00:13:02 GMT",
+    "Date": "Thu, 10 Jun 2021 00:51:49 GMT",
     "Keep-Alive": "timeout=5, max=100",
     "Link": "<https://www.sansebastiangomera.org/wp-json/>; rel=\"https://api.w.org/\"",
-    "Server": "Apache"
+    "Server": "Apache",
+    "Set-Cookie": "__wpdm_client=283ef3a71b9e29bed25f01af123c30fa"
   },
-  "scan_id": 19527657,
+  "scan_id": 19582152,
   "score": 0,
-  "start_time": "Mon, 07 Jun 2021 00:12:01 GMT",
+  "start_time": "Thu, 10 Jun 2021 00:51:43 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
-  "tests_passed": 6,
+  "tests_failed": 7,
+  "tests_passed": 5,
   "tests_quantity": 12
 }
