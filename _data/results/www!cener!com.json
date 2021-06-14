@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Thu, 10 Jun 2021 00:12:59 GMT",
+  "end_time": "Mon, 14 Jun 2021 00:44:53 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -8,7 +8,7 @@
     "Connection": "Keep-Alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Thu, 10 Jun 2021 00:12:45 GMT",
+    "Date": "Mon, 14 Jun 2021 00:44:26 GMT",
     "Keep-Alive": "timeout=15, max=100",
     "Link": "<https://www.cener.com/wp-json/>; rel=\"https://api.w.org/\", <https://www.cener.com/wp-json/wp/v2/pages/15302>; rel=\"alternate\"; type=\"application/json\", <https://www.cener.com/>; rel=shortlink, <https://www.cener.com/en/>; rel=\"alternate\"; hreflang=\"en-US\", <https://www.cener.com/>; rel=\"alternate\"; hreflang=\"es-ES\"",
     "Server": "Apache",
@@ -16,9 +16,9 @@
     "Vary": "Accept-Encoding,Cookie",
     "X-UA-Compatible": "IE=edge"
   },
-  "scan_id": 19581705,
+  "scan_id": 19638812,
   "score": 0,
-  "start_time": "Thu, 10 Jun 2021 00:12:24 GMT",
+  "start_time": "Mon, 14 Jun 2021 00:44:17 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 7,
