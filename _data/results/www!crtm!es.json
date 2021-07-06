@@ -1,19 +1,21 @@
 {
   "algorithm_version": 2,
-  "end_time": "Fri, 02 Jul 2021 00:45:46 GMT",
+  "end_time": "Tue, 06 Jul 2021 00:12:50 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
   "response_headers": {
     "Access-Control-Allow-Origin": "*",
     "Cache-Control": "private",
-    "Content-Length": "59083",
+    "Content-Encoding": "gzip",
+    "Content-Length": "14356",
     "Content-Type": "text/html; charset=utf-8",
-    "Date": "Fri, 02 Jul 2021 00:45:32 GMT"
+    "Date": "Tue, 06 Jul 2021 00:12:27 GMT",
+    "Vary": "Accept-Encoding"
   },
-  "scan_id": 19972093,
+  "scan_id": 20049605,
   "score": 0,
-  "start_time": "Fri, 02 Jul 2021 00:45:29 GMT",
+  "start_time": "Tue, 06 Jul 2021 00:12:23 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 6,
