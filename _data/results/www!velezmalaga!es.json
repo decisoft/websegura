@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Sun, 04 Jul 2021 00:05:27 GMT",
+  "end_time": "Thu, 08 Jul 2021 00:24:34 GMT",
   "grade": "F",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -9,19 +9,20 @@
     "Connection": "keep-alive",
     "Content-Encoding": "gzip",
     "Content-Type": "text/html; charset=UTF-8",
-    "Date": "Sun, 04 Jul 2021 00:05:02 GMT",
+    "Date": "Thu, 08 Jul 2021 00:24:15 GMT",
     "Expires": "Thu, 19 Nov 1981 08:52:00 GMT",
     "Pragma": "no-cache",
     "Server": "nginx/1.10.3 (Ubuntu)",
-    "Set-Cookie": "twsaint_velezmalaga_es_twsaint=k26hpltje0sgclb33gjocknrd7; path=/",
-    "Transfer-Encoding": "chunked"
+    "Set-Cookie": "twsaint_velezmalaga_es_twsaint=d4il7ptked6v86ct47l05fjov6; path=/",
+    "Transfer-Encoding": "chunked",
+    "X-Frame-Options": "SAMEORIGIN"
   },
-  "scan_id": 20006250,
-  "score": 0,
-  "start_time": "Sun, 04 Jul 2021 00:04:54 GMT",
+  "scan_id": 20088066,
+  "score": 20,
+  "start_time": "Thu, 08 Jul 2021 00:24:09 GMT",
   "state": "FINISHED",
   "status_code": 200,
-  "tests_failed": 6,
-  "tests_passed": 6,
+  "tests_failed": 5,
+  "tests_passed": 7,
   "tests_quantity": 12
 }
