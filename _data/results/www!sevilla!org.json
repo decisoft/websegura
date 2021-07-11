@@ -1,6 +1,6 @@
 {
   "algorithm_version": 2,
-  "end_time": "Thu, 08 Jul 2021 00:06:14 GMT",
+  "end_time": "Sun, 11 Jul 2021 00:05:15 GMT",
   "grade": "B-",
   "hidden": false,
   "likelihood_indicator": "MEDIUM",
@@ -10,7 +10,7 @@
     "Content-Language": "es",
     "Content-Security-Policy": "frame-ancestors 'self' www.emasesa.com;",
     "Content-Type": "text/html;charset=utf-8",
-    "Date": "Thu, 08 Jul 2021 00:04:42 GMT",
+    "Date": "Sun, 11 Jul 2021 00:05:00 GMT",
     "Expires": "Sat, 01 Jan 2000 00:00:00 GMT",
     "Keep-Alive": "timeout=15, max=100",
     "Server": "nginx/1.6.2",
@@ -22,9 +22,9 @@
     "X-Frame-Options": "SAMEORIGIN",
     "X-Ua-Compatible": "IE=edge"
   },
-  "scan_id": 20087466,
+  "scan_id": 20145537,
   "score": 65,
-  "start_time": "Thu, 08 Jul 2021 00:04:33 GMT",
+  "start_time": "Sun, 11 Jul 2021 00:04:55 GMT",
   "state": "FINISHED",
   "status_code": 200,
   "tests_failed": 3,
