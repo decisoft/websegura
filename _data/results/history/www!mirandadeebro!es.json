@@ -145,5 +145,19 @@
     "grade": "F",
     "scan_id": 20102078,
     "score": 15
+  },
+  {
+    "end_time": "Fri, 16 Jul 2021 00:13:21 GMT",
+    "end_time_unix_timestamp": 1626394401,
+    "grade": "F",
+    "scan_id": 20251723,
+    "score": 0
+  },
+  {
+    "end_time": "Sat, 17 Jul 2021 00:49:51 GMT",
+    "end_time_unix_timestamp": 1626482991,
+    "grade": "F",
+    "scan_id": 20274141,
+    "score": 15
   }
 ]
